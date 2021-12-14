@@ -1,40 +1,49 @@
-AlertOps Expert Guidance
+2019 Business Predictions: Is AI the Future of ITSM?
 ========
+2019 could be the year of artificial intelligence (AI) in IT service management (ITSM). To better understand why this may be the case, let’s take a closer look at AI, how it works and the benefits associated with it.
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
-
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
-
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
-
-Automate Processes
+What Is AI?
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+AI involves the use of machines that work and react like humans. Machines equipped with AI often use deep learning and natural language processing (NLP) technologies; these technologies allow machines to process massive amounts of data, identify patterns and trends within the data itself and use this information to accomplish a wide range of tasks.
 
-Clarity
+There are many reasons why global enterprises are searching for ways to integrate AI into their everyday operations. These reasons include:
+
+    Business Automation: AI can help enterprises perform manual tasks faster and more efficiently than ever before. As such, enterprise workers can automate such tasks and focus their day-to-day efforts on high-value activities.
+    Intelligence: AI can be used with bots and smart machines, enabling enterprises to quickly collect consumer and industry data and transform it into actionable business insights.
+    Learning: AI-based progressive learning algorithms empower enterprises to leverage machines that can learn over time. These machines then can make data-driven predictions to help an enterprise accomplish its immediate and long-term goals.
+
+Expect the push for AI to increase in 2019 and beyond. Some industry experts have projected the global AI market could expand at a compound annual growth rate (CAGR) of 37% between 2017 and 2024. Furthermore, this market could be worth $191 billion by 2024.
+
+AI in ITSM: Here’s What You Need to Know
 ====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+ITSM is a top priority for many enterprises. It allows an enterprise to simultaneously streamline its service delivery and fulfill customer requests. Plus, effective ITSM can help an enterprise differentiate itself from rivals, increase its earnings and bolster its customer satisfaction levels.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+When it comes to ITSM, AI is becoming exceedingly important to enterprises across all industries. If an enterprise integrates AI into its ITSM framework, it may reap the benefits of its decision both now and in the future.
 
-Insightful Notifications
+Ultimately, AI allows an enterprise to automate its ITSM efforts. There are many potential AI applications in ITSM, such as:
+
+    Knowledge Management: AI can leverage enterprise IT data to provide IT agents with data-based recommendations, thereby helping these agents speed up and improve their response to various issues.
+    Predictive Maintenance: An AI-powered service desk can automatically create tickets if a network or system stops working and notify an enterprise’s affected stakeholders accordingly, as well as keep track of possible issues before they lead to downtime or outages.
+    Sentiment Analysis: AI enables IT agents to analyze service tickets and generate insights into end user sentiment, which could help these agents identify new ways to improve the user experience and boost user satisfaction levels.
+    Service-Level Agreements (SLAs): AI allows IT agents to track SLAs and follow SLA violation patterns and trends. With these insights in hand, IT agents can find ways to prevent future SLA violations that otherwise may lead to revenue loss, brand reputation damage and customer turnover.
+    Strategic Decision-Making: AI can be used in conjunction with predictive analytics that allow IT agents to produce data-driven forecasts, along with find ways to help an enterprise maximize its time and resources.
+    Workload Optimization: AI enables IT agents to optimize service ticket classification and management. It even offers insights into staff hiring based on an enterprise’s workload and future resource planning.
+
+AI may prove to be a time- and cost-saver for global enterprises. If an enterprise understands the opportunities and challenges associated with AI, it can seamlessly integrate AI-based tools and systems into its IT operations.
+
+Key Challenges Associated with AI in ITSM
 ====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+Integrating AI into an enterprise’s ITSM framework is sometimes difficult due to one or more of the following challenges:
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+    Ineffective Data Management: Data silos are problematic in some enterprises, and these silos often make it tough for an enterprise to use AI in ITSM. By establishing collaborative data management systems across an enterprise, IT agents and others can share information. Meanwhile, integrating AI into these systems allows an enterprise to accelerate its data collection and analysis processes.
+    Lack of Education: Teaching IT agents and others about AI is paramount. If an enterprise gains buy-in from C-suite executives and entry-level employees alike, it can help its workforce get the most out of its AI in ITSM investments.
+    Shadow IT: Bring-your-own-device (BYOD) policies and the use of unauthorized cloud applications increases the risk of shadow IT. To combat this issue, IT needs to serve as a single point of contact for all technology implementations across an enterprise. That way, IT agents can integrate AI into myriad processes, systems and applications and help all enterprise departments use AI as part of their everyday operations.
 
-1 Red Canary 2021 Threat Detection Report
+Going forward, AI will be a game-changer for enterprise IT teams worldwide. If IT agents get ready for AI in 2019, they could benefit from this state-of-the-art technology in the foreseeable future.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/prediction-ai-itsm/
 
 Read more:
 ====
